@@ -1,3 +1,13 @@
 {
-    "livePreview.defaultPreviewPath": "e:\\2324\\M6\\sesion6NodeJS\\src\\index.html"
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    }
 }
